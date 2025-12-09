@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "team": { "id": 50, "name": "Manchester City" },
+      "statistics": [
+        { "type": "Shots on Goal", "value": 7 },
+        { "type": "Possession", "value": "62%" },
+        { "type": "Passes Accurate", "value": 520 }
+      ]
+    },
+    {
+      "team": { "id": 40, "name": "Liverpool" },
+      "statistics": [
+        { "type": "Shots on Goal", "value": 5 },
+        { "type": "Possession", "value": "38%" },
+        { "type": "Passes Accurate", "value": 410 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "response": [
+    {
+      "fixture": {
+        "id": 100001,
+        "date": "2025-12-08T19:00:00Z",
+        "timestamp": 1765201200,
+        "status": { "short": "NS", "long": "Not Started" }
+      },
+      "league": { "id": 39, "name": "Premier League", "country": "England", "season": 2025 },
+      "teams": {
+        "home": { "id": 50, "name": "Manchester City" },
+        "away": { "id": 40, "name": "Liverpool" }
+      },
+      "goals": { "home": null, "away": null }
+    },
+    {
+      "fixture": {
+        "id": 100002,
+        "date": "2025-12-08T20:00:00Z",
+        "timestamp": 1765204800,
+        "status": { "short": "NS", "long": "Not Started" }
+      },
+      "league": { "id": 140, "name": "La Liga", "country": "Spain", "season": 2025 },
+      "teams": {
+        "home": { "id": 529, "name": "Real Madrid" },
+        "away": { "id": 530, "name": "Barcelona" }
+      },
+      "goals": { "home": null, "away": null }
+    },
+    {
+      "fixture": {
+        "id": 100003,
+        "date": "2025-12-08T22:00:00Z",
+        "timestamp": 1765212000,
+        "status": { "short": "NS", "long": "Not Started" }
+      },
+      "league": { "id": 71, "name": "Brasileirão", "country": "Brazil", "season": 2025 },
+      "teams": {
+        "home": { "id": 128, "name": "Flamengo" },
+        "away": { "id": 131, "name": "Palmeiras" }
+      },
+      "goals": { "home": null, "away": null }
+    }
+  ]
+}
